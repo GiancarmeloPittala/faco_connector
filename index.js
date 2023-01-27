@@ -15,6 +15,7 @@ app.listen(process.env.PORT || 80)
 
 
 async function main(){
+  
   let rawdata = fs.readFileSync('database.json');
   let db = JSON.parse(rawdata);
 
