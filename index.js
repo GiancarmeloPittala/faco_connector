@@ -1,10 +1,10 @@
+
+require("dotenv").config();
 const { PORT, NODE_ENV } = process.env;
 
-console.log( NODE_ENV )
-if( NODE_ENV == 'production') 
-  require("dotenv").config();
-
 const fs = require('fs');
+const path = require('path')
+const morgan = require('morgan')
 
 const { products_update, sync } = require('./utils/mysql')
 const express = require('express')
@@ -17,16 +17,13 @@ const app = express();
   app.get('/run', async (req,res) => {
     main()
     res.status(201).json({msg: 'Aggiornamento avviato'})
-  
   })
+
+  const accessLogStream = fs.createWriteStream(path.join(__dirname, 'access.log'), { flags: 'a' })
+    app.use(morgan('combined', { stream: accessLogStream }))
+
+
 })()
-
-
-
-
-
-
-
 
 
 async function main(){
