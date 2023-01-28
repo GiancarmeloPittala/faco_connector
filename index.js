@@ -1,17 +1,32 @@
-require("dotenv").config();
+const { PORT, NODE_ENV } = process.env;
+
+console.log( NODE_ENV )
+if( NODE_ENV == 'production') 
+  require("dotenv").config();
+
 const fs = require('fs');
 
 const { products_update, sync } = require('./utils/mysql')
 const express = require('express')
 const app = express();
 
-app.get('/run', async (req,res) => {
-  main()
-  res.status(201).json({msg: 'Aggiornamento avviato'})
 
-})
+( async () => {
+  await app.listen(PORT)
 
-app.listen(process.env.PORT || 80)
+  app.get('/run', async (req,res) => {
+    main()
+    res.status(201).json({msg: 'Aggiornamento avviato'})
+  
+  })
+})()
+
+
+
+
+
+
+
 
 
 async function main(){
