@@ -18,7 +18,7 @@ async function main(){
 
   let rawdata = fs.readFileSync('database.json');
   let db = JSON.parse(rawdata);
-  
+
 
   if( db.isInSync === true ) return
   db.isInSync = true;
@@ -32,15 +32,3 @@ async function main(){
   let data = JSON.stringify(db);
   fs.writeFileSync('database.json', data);
 }
-
-
-
-
-
-
-
-main().then( () => {
-  console.log( "Fine" )
-}).catch( e => console.error(e) ).finally(() => {
-  console.log( "finally")
-})
