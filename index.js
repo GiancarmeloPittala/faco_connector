@@ -14,13 +14,14 @@ const app = express();
 ( async () => {
   await app.listen(PORT)
 
+  const accessLogStream = fs.createWriteStream(path.join(__dirname, 'access.log'), { flags: 'a' })
+    app.use(morgan('combined', { stream: accessLogStream }))
+    
   app.get('/run', async (req,res) => {
     main()
     res.status(201).json({msg: 'Aggiornamento avviato'})
   })
 
-  const accessLogStream = fs.createWriteStream(path.join(__dirname, 'access.log'), { flags: 'a' })
-    app.use(morgan('combined', { stream: accessLogStream }))
 
 
 })()
