@@ -158,7 +158,7 @@ module.exports.products_update = async function () {
 module
 
 module.exports.sync = async function () {
-
+  console.log( "Sync in corso")
   // prodotti in woocommerce
   const all_products = await getAllProducts();
 
@@ -185,7 +185,6 @@ module.exports._sync = async function () {
 
   let current_page = 1;
   let max_page = 1;
-  console.log("Sync avviata")
   do {
     const { data, pages } = await get_products(current_page)
     max_page = pages;

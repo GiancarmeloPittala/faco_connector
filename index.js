@@ -9,32 +9,30 @@ const morgan = require('morgan')
 const { products_update, sync } = require('./utils/mysql')
 const express = require('express')
 const app = express();
+const cors = require('cors');
 
 
-( async () => {
-  await app.listen(PORT)
+app.use(cors())
 
-  const accessLogStream = fs.createWriteStream(path.join(__dirname, 'access.log'), { flags: 'a' })
-    app.use(morgan('combined', { stream: accessLogStream }))
-    
-  app.get('/run', async (req,res) => {
-    main()
-    res.status(201).json({msg: 'Aggiornamento avviato'})
-  })
+const accessLogStream = fs.createWriteStream(path.join(__dirname, 'access.log'), { flags: 'a' })
+app.use(morgan('combined', { stream: accessLogStream }))
 
+app.get('/run', async (req, res) => {
+  main()
+  res.status(201).json({ msg: 'Aggiornamento avviato' })
+})
 
-
-})()
+app.listen(PORT)
 
 
-async function main(){
+async function main() {
 
   let rawdata = fs.readFileSync('database.json');
   let db = JSON.parse(rawdata);
 
-
-  if( db.isInSync === true ) return
+  if (db.isInSync === true) return
   db.isInSync = true;
+
   fs.writeFileSync('database.json', JSON.stringify(db));
 
   await sync()
