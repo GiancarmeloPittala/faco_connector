@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,23 +8,26 @@
   <script src="https://cdn.tailwindcss.com"></script>
   <title>Aggiornalo</title>
   <style>
-    button:disabled{
+    *{
+      font-family: 'Roboto', sans-serif;
+    }
+    button:disabled {
       cursor: not-allowed;
     }
   </style>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+    rel="stylesheet">
   <script>
-    async function aggionalo(){
+    async function aggionalo() {
       const btn = document.getElementById('btn')
-      if ( btn.disabled === true) true;
+      if (btn.disabled === true) true;
       btn.disabled = true;
 
-
-      const resp = await fetch("https://connector.sgrricambi.it/run")
-      const data = resp.json()
-      console.log( data )
-
+      await fetch("https://connector.sgrricambi.it/run")
       alert("Aggiornamento avviato")
-
 
       setTimeout(() => {
         btn.disabled = false;
@@ -33,11 +37,14 @@
   </script>
 
 </head>
-<body>
+
+<body class="flex items-center justify-center min-h-screen bg-gray-900 text-xl">
   <div>
-    <button class="hover:bg-blue-200 font-bold bg-blue-100 rounded-lg p-8" id="btn" onclick="aggionalo()" class="py-2 px-4 ">
+    <button class="hover:bg-blue-200 font-bold bg-blue-100 rounded-lg p-8" id="btn" onclick="aggionalo()"
+      class="py-2 px-4 ">
       Aggiorna
     </button>
-  </div>  
+  </div>
 </body>
+
 </html>
