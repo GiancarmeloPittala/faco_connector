@@ -11,6 +11,17 @@ const express = require('express')
 const app = express();
 const cors = require('cors');
 
+const util = require('util');
+const logFile = fs.createWriteStream('log.txt', { flags: 'a' });
+const logStdout = process.stdout;
+
+console.log = function () {
+  logFile.write(util.format.apply(null, arguments) + '\n');
+  logStdout.write(util.format.apply(null, arguments) + '\n');
+}
+console.error = console.log;
+
+
 
 app.use(cors())
 
@@ -32,7 +43,6 @@ async function main() {
   let db = JSON.parse(rawdata);
   try {
 
-
     if (db.isInSync === true) return
     db.isInSync = true;
     fs.writeFileSync('database.json', JSON.stringify(db));
@@ -47,3 +57,8 @@ async function main() {
     fs.writeFileSync('database.json', JSON.stringify(db));
   }
 }
+
+main()
+// setInterval(() => {
+//   main()
+// }, 1000 * 60 * 2)
