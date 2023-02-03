@@ -4,3 +4,11 @@ Fine sync
 Aggiornamento prodotti|QTA in corso  0
 Aggiornamento prodotti|PRICE in corso  0
 Aggiornamento prodotti|NEW in corso  0
+Sync in corso
+trovati 29677 prodotti
+Fine sync
+Aggiornamento prodotti|QTA in corso  0
+Aggiornamento prodotti|PRICE in corso  1
+Aggiornamento su woocommerce di AD24122
+Aggiornamento prezzo in faco 27 to 28
+Aggiornamento prodotti|NEW in corso  0

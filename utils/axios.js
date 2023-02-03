@@ -1,4 +1,5 @@
 const Axios = require('axios');
+const https = require('https')
 
 const {
   CHIAVE_UTENTE: chiave_utente,
@@ -9,6 +10,9 @@ const {
 const axios = Axios.create({
   baseURL,
   timeout: 1000 * 60 * 10,
+  httpsAgent: new https.Agent({
+    rejectUnauthorized: false
+  }),
   auth: {
     username: chiave_utente,
     password: utente_nascosto
