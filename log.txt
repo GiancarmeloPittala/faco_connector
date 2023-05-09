@@ -1,14 +1,1738 @@
 Sync in corso
-trovati 29677 prodotti
+trovati 31291 prodotti
 Fine sync
-Aggiornamento prodotti|QTA in corso  0
+Aggiornamento prodotti|QTA in corso  11
+Aggiornamento su woocommerce di AH100HH01
+Aggiornamento quantità in faco 0 to 1
+Aggiornamento su woocommerce di MTSFRA02748
+ID non valido.
+woocommerce_rest_product_invalid_id
+Aggiornamento quantità in faco 2 to 0
+Aggiornamento su woocommerce di MTSFRC00104
+Aggiornamento quantità in faco 20 to 8
+Aggiornamento su woocommerce di MTSFRC00820
+Aggiornamento quantità in faco 12 to 7
+Aggiornamento su woocommerce di MTSFRC00824
+Aggiornamento quantità in faco 36 to 26
+Aggiornamento su woocommerce di MTSFRO00364
+Aggiornamento quantità in faco 19 to 15
+Aggiornamento su woocommerce di MTSFRO00400
+Aggiornamento quantità in faco 13 to 8
+Aggiornamento su woocommerce di MTSFRO00556
+Aggiornamento quantità in faco 17 to 7
+Aggiornamento su woocommerce di MTSFRO00560
+Aggiornamento quantità in faco 26 to 16
+Aggiornamento su woocommerce di MTSFRO00600
+Aggiornamento quantità in faco 70 to 60
+Aggiornamento su woocommerce di MTSFRO00820
+Aggiornamento quantità in faco 2 to 0
 Aggiornamento prodotti|PRICE in corso  0
 Aggiornamento prodotti|NEW in corso  0
 Sync in corso
-trovati 29677 prodotti
+trovati 31291 prodotti
+[
+  81969, 81966, 81967, 81968, 81965, 81964, 81961, 81963,
+  81962, 81960, 81959, 81952, 81954, 81957, 81956, 81958,
+  81955, 81953, 81949, 81945, 81944, 81948, 81947, 81950,
+  81951, 81946, 81938, 81941, 81940, 81939, 81942, 81943,
+  81933, 81937, 81936, 81934, 81935, 81930, 81931, 81928,
+  81929, 81932, 81922, 81926, 81927, 81923, 81925, 81924,
+  81921, 81919, 81917, 81914, 81916, 81920, 81915, 81918,
+  81908, 81907, 81909, 81910, 81912, 81911, 81913, 81906,
+  81904, 81903, 81905, 81899, 81901, 81900, 81902, 81892,
+  81897, 81895, 81891, 81896, 81898, 81893, 81894, 81889,
+  81886, 81890, 81888, 81887, 81885, 81884, 81879, 81880,
+  81882, 81883, 81881, 81878, 81874, 81872, 81873, 81875,
+  81877, 81876, 81867, 81866,
+  ... 31289 more items
+]
 Fine sync
-Aggiornamento prodotti|QTA in corso  0
-Aggiornamento prodotti|PRICE in corso  1
-Aggiornamento su woocommerce di AD24122
-Aggiornamento prezzo in faco 27 to 28
+Sync in corso
+trovati 31291 prodotti
+[ 54887 ]
+Fine sync
+Aggiornamento prodotti|QTA in corso  1
+Aggiornamento su woocommerce di AH100HH01
+Aggiornamento quantità in faco 0 to 1
+Aggiornamento prodotti|PRICE in corso  0
 Aggiornamento prodotti|NEW in corso  0
+Sync in corso
+trovati 31291 prodotti
+[ 54887 ]
+Fine sync
+Sync in corso
+trovati 31291 prodotti
+[
+  {
+    id: 54887,
+    FIELD: '_sku',
+    value: 'ABS10410',
+    meta_id: 957312,
+    post_id: 54887,
+    meta_key: '_sku',
+    meta_value: 'ABS10410'
+  },
+  {
+    id: 54888,
+    FIELD: '_sku',
+    value: 'AC228113',
+    meta_id: 957330,
+    post_id: 54888,
+    meta_key: '_sku',
+    meta_value: 'AC228113'
+  },
+  {
+    id: 54889,
+    FIELD: '_sku',
+    value: 'ACFC180119',
+    meta_id: 957348,
+    post_id: 54889,
+    meta_key: '_sku',
+    meta_value: 'ACFC180119'
+  },
+  {
+    id: 54890,
+    FIELD: '_sku',
+    value: 'ACFC228111',
+    meta_id: 957366,
+    post_id: 54890,
+    meta_key: '_sku',
+    meta_value: 'ACFC228111'
+  },
+  {
+    id: 54891,
+    FIELD: '_sku',
+    value: 'AD120402',
+    meta_id: 957384,
+    post_id: 54891,
+    meta_key: '_sku',
+    meta_value: 'AD120402'
+  },
+  {
+    id: 54892,
+    FIELD: '_sku',
+    value: 'ADTH687483J',
+    meta_id: 957402,
+    post_id: 54892,
+    meta_key: '_sku',
+    meta_value: 'ADTH687483J'
+  },
+  {
+    id: 54893,
+    FIELD: '_sku',
+    value: 'AG15W40',
+    meta_id: 957420,
+    post_id: 54893,
+    meta_key: '_sku',
+    meta_value: 'AG15W40'
+  },
+  {
+    id: 54894,
+    FIELD: '_sku',
+    value: 'AH1005505',
+    meta_id: 957438,
+    post_id: 54894,
+    meta_key: '_sku',
+    meta_value: 'AH1005505'
+  },
+  {
+    id: 54895,
+    FIELD: '_sku',
+    value: 'AH2002288',
+    meta_id: 957456,
+    post_id: 54895,
+    meta_key: '_sku',
+    meta_value: 'AH2002288'
+  },
+  {
+    id: 54896,
+    FIELD: '_sku',
+    value: 'AH2003351',
+    meta_id: 957474,
+    post_id: 54896,
+    meta_key: '_sku',
+    meta_value: 'AH2003351'
+  },
+  {
+    id: 54897,
+    FIELD: '_sku',
+    value: 'AH200HH23',
+    meta_id: 957492,
+    post_id: 54897,
+    meta_key: '_sku',
+    meta_value: 'AH200HH23'
+  },
+  {
+    id: 54898,
+    FIELD: '_sku',
+    value: 'AH3005502',
+    meta_id: 957510,
+    post_id: 54898,
+    meta_key: '_sku',
+    meta_value: 'AH3005502'
+  },
+  {
+    id: 54899,
+    FIELD: '_sku',
+    value: 'AH7205516L',
+    meta_id: 957528,
+    post_id: 54899,
+    meta_key: '_sku',
+    meta_value: 'AH7205516L'
+  },
+  {
+    id: 54900,
+    FIELD: '_sku',
+    value: 'AH7205516R',
+    meta_id: 957546,
+    post_id: 54900,
+    meta_key: '_sku',
+    meta_value: 'AH7205516R'
+  },
+  {
+    id: 54901,
+    FIELD: '_sku',
+    value: 'AH7205518L',
+    meta_id: 957564,
+    post_id: 54901,
+    meta_key: '_sku',
+    meta_value: 'AH7205518L'
+  },
+  {
+    id: 54902,
+    FIELD: '_sku',
+    value: 'AH7205518R',
+    meta_id: 957582,
+    post_id: 54902,
+    meta_key: '_sku',
+    meta_value: 'AH7205518R'
+  },
+  {
+    id: 54903,
+    FIELD: '_sku',
+    value: 'AHGOM115',
+    meta_id: 957600,
+    post_id: 54903,
+    meta_key: '_sku',
+    meta_value: 'AHGOM115'
+  },
+  {
+    id: 54904,
+    FIELD: '_sku',
+    value: 'AHGOM1194',
+    meta_id: 957618,
+    post_id: 54904,
+    meta_key: '_sku',
+    meta_value: 'AHGOM1194'
+  },
+  {
+    id: 54905,
+    FIELD: '_sku',
+    value: 'AHMA00188',
+    meta_id: 957636,
+    post_id: 54905,
+    meta_key: '_sku',
+    meta_value: 'AHMA00188'
+  },
+  {
+    id: 54906,
+    FIELD: '_sku',
+    value: 'AHMA50025',
+    meta_id: 957654,
+    post_id: 54906,
+    meta_key: '_sku',
+    meta_value: 'AHMA50025'
+  },
+  {
+    id: 54907,
+    FIELD: '_sku',
+    value: 'AI1852',
+    meta_id: 957672,
+    post_id: 54907,
+    meta_key: '_sku',
+    meta_value: 'AI1852'
+  },
+  {
+    id: 54908,
+    FIELD: '_sku',
+    value: 'AT603950',
+    meta_id: 957690,
+    post_id: 54908,
+    meta_key: '_sku',
+    meta_value: 'AT603950'
+  },
+  {
+    id: 54909,
+    FIELD: '_sku',
+    value: 'AT603982',
+    meta_id: 957708,
+    post_id: 54909,
+    meta_key: '_sku',
+    meta_value: 'AT603982'
+  },
+  {
+    id: 54910,
+    FIELD: '_sku',
+    value: 'AT603999',
+    meta_id: 957726,
+    post_id: 54910,
+    meta_key: '_sku',
+    meta_value: 'AT603999'
+  },
+  {
+    id: 54911,
+    FIELD: '_sku',
+    value: 'AUAFT006',
+    meta_id: 957744,
+    post_id: 54911,
+    meta_key: '_sku',
+    meta_value: 'AUAFT006'
+  },
+  {
+    id: 54912,
+    FIELD: '_sku',
+    value: 'AUAFT118',
+    meta_id: 957762,
+    post_id: 54912,
+    meta_key: '_sku',
+    meta_value: 'AUAFT118'
+  },
+  {
+    id: 54913,
+    FIELD: '_sku',
+    value: 'AUAFT119',
+    meta_id: 957780,
+    post_id: 54913,
+    meta_key: '_sku',
+    meta_value: 'AUAFT119'
+  },
+  {
+    id: 54914,
+    FIELD: '_sku',
+    value: 'AUAFT170',
+    meta_id: 957798,
+    post_id: 54914,
+    meta_key: '_sku',
+    meta_value: 'AUAFT170'
+  },
+  {
+    id: 54915,
+    FIELD: '_sku',
+    value: 'AUAR10105',
+    meta_id: 957816,
+    post_id: 54915,
+    meta_key: '_sku',
+    meta_value: 'AUAR10105'
+  },
+  {
+    id: 54916,
+    FIELD: '_sku',
+    value: 'AUE1036L',
+    meta_id: 957834,
+    post_id: 54916,
+    meta_key: '_sku',
+    meta_value: 'AUE1036L'
+  },
+  {
+    id: 54917,
+    FIELD: '_sku',
+    value: 'AUFL15401',
+    meta_id: 957852,
+    post_id: 54917,
+    meta_key: '_sku',
+    meta_value: 'AUFL15401'
+  },
+  {
+    id: 54918,
+    FIELD: '_sku',
+    value: 'AUK1322',
+    meta_id: 957870,
+    post_id: 54918,
+    meta_key: '_sku',
+    meta_value: 'AUK1322'
+  },
+  {
+    id: 54919,
+    FIELD: '_sku',
+    value: 'AUKPA0586A',
+    meta_id: 957888,
+    post_id: 54919,
+    meta_key: '_sku',
+    meta_value: 'AUKPA0586A'
+  },
+  {
+    id: 54920,
+    FIELD: '_sku',
+    value: 'AUKPA0587A',
+    meta_id: 957906,
+    post_id: 54920,
+    meta_key: '_sku',
+    meta_value: 'AUKPA0587A'
+  },
+  {
+    id: 54921,
+    FIELD: '_sku',
+    value: 'AUKPA0727C',
+    meta_id: 957924,
+    post_id: 54921,
+    meta_key: '_sku',
+    meta_value: 'AUKPA0727C'
+  },
+  {
+    id: 54922,
+    FIELD: '_sku',
+    value: 'AUML4505',
+    meta_id: 957942,
+    post_id: 54922,
+    meta_key: '_sku',
+    meta_value: 'AUML4505'
+  },
+  {
+    id: 54923,
+    FIELD: '_sku',
+    value: 'AUPD742',
+    meta_id: 957960,
+    post_id: 54923,
+    meta_key: '_sku',
+    meta_value: 'AUPD742'
+  },
+  {
+    id: 54924,
+    FIELD: '_sku',
+    value: 'AUPDS749',
+    meta_id: 957978,
+    post_id: 54924,
+    meta_key: '_sku',
+    meta_value: 'AUPDS749'
+  },
+  {
+    id: 54925,
+    FIELD: '_sku',
+    value: 'AUPF1007',
+    meta_id: 957996,
+    post_id: 54925,
+    meta_key: '_sku',
+    meta_value: 'AUPF1007'
+  },
+  {
+    id: 54926,
+    FIELD: '_sku',
+    value: 'AUPF1028',
+    meta_id: 958014,
+    post_id: 54926,
+    meta_key: '_sku',
+    meta_value: 'AUPF1028'
+  },
+  {
+    id: 54927,
+    FIELD: '_sku',
+    value: 'AUPF1048',
+    meta_id: 958032,
+    post_id: 54927,
+    meta_key: '_sku',
+    meta_value: 'AUPF1048'
+  },
+  {
+    id: 54928,
+    FIELD: '_sku',
+    value: 'AUPF1059',
+    meta_id: 958050,
+    post_id: 54928,
+    meta_key: '_sku',
+    meta_value: 'AUPF1059'
+  },
+  {
+    id: 54929,
+    FIELD: '_sku',
+    value: 'AUPP211',
+    meta_id: 958068,
+    post_id: 54929,
+    meta_key: '_sku',
+    meta_value: 'AUPP211'
+  },
+  {
+    id: 54930,
+    FIELD: '_sku',
+    value: 'AUPP281',
+    meta_id: 958086,
+    post_id: 54930,
+    meta_key: '_sku',
+    meta_value: 'AUPP281'
+  },
+  {
+    id: 54931,
+    FIELD: '_sku',
+    value: 'AUPP475',
+    meta_id: 958104,
+    post_id: 54931,
+    meta_key: '_sku',
+    meta_value: 'AUPP475'
+  },
+  {
+    id: 54932,
+    FIELD: '_sku',
+    value: 'AUWA59205',
+    meta_id: 958122,
+    post_id: 54932,
+    meta_key: '_sku',
+    meta_value: 'AUWA59205'
+  },
+  {
+    id: 54933,
+    FIELD: '_sku',
+    value: 'AUWA59252',
+    meta_id: 958140,
+    post_id: 54933,
+    meta_key: '_sku',
+    meta_value: 'AUWA59252'
+  },
+  {
+    id: 54934,
+    FIELD: '_sku',
+    value: 'AUWA59253',
+    meta_id: 958158,
+    post_id: 54934,
+    meta_key: '_sku',
+    meta_value: 'AUWA59253'
+  },
+  {
+    id: 54935,
+    FIELD: '_sku',
+    value: 'AUWA60126',
+    meta_id: 958176,
+    post_id: 54935,
+    meta_key: '_sku',
+    meta_value: 'AUWA60126'
+  },
+  {
+    id: 54936,
+    FIELD: '_sku',
+    value: 'AUWA60188',
+    meta_id: 958194,
+    post_id: 54936,
+    meta_key: '_sku',
+    meta_value: 'AUWA60188'
+  },
+  {
+    id: 54937,
+    FIELD: '_sku',
+    value: 'AUWA60210',
+    meta_id: 958212,
+    post_id: 54937,
+    meta_key: '_sku',
+    meta_value: 'AUWA60210'
+  },
+  {
+    id: 54938,
+    FIELD: '_sku',
+    value: 'AUWA60227',
+    meta_id: 958230,
+    post_id: 54938,
+    meta_key: '_sku',
+    meta_value: 'AUWA60227'
+  },
+  {
+    id: 54939,
+    FIELD: '_sku',
+    value: 'AUWO1505X',
+    meta_id: 958248,
+    post_id: 54939,
+    meta_key: '_sku',
+    meta_value: 'AUWO1505X'
+  },
+  {
+    id: 54940,
+    FIELD: '_sku',
+    value: 'AUWO1528X',
+    meta_id: 958266,
+    post_id: 54940,
+    meta_key: '_sku',
+    meta_value: 'AUWO1528X'
+  },
+  {
+    id: 54941,
+    FIELD: '_sku',
+    value: 'AUWO1529X',
+    meta_id: 958284,
+    post_id: 54941,
+    meta_key: '_sku',
+    meta_value: 'AUWO1529X'
+  },
+  {
+    id: 54942,
+    FIELD: '_sku',
+    value: 'AUWO1559X',
+    meta_id: 958302,
+    post_id: 54942,
+    meta_key: '_sku',
+    meta_value: 'AUWO1559X'
+  },
+  {
+    id: 54943,
+    FIELD: '_sku',
+    value: 'AUWO1572X',
+    meta_id: 958320,
+    post_id: 54943,
+    meta_key: '_sku',
+    meta_value: 'AUWO1572X'
+  },
+  {
+    id: 54944,
+    FIELD: '_sku',
+    value: 'AUWP1510X',
+    meta_id: 958338,
+    post_id: 54944,
+    meta_key: '_sku',
+    meta_value: 'AUWP1510X'
+  },
+  {
+    id: 54945,
+    FIELD: '_sku',
+    value: 'BCRPA328',
+    meta_id: 958356,
+    post_id: 54945,
+    meta_key: '_sku',
+    meta_value: 'BCRPA328'
+  },
+  {
+    id: 54946,
+    FIELD: '_sku',
+    value: 'BCRRA05140',
+    meta_id: 958374,
+    post_id: 54946,
+    meta_key: '_sku',
+    meta_value: 'BCRRA05140'
+  },
+  {
+    id: 54947,
+    FIELD: '_sku',
+    value: 'BCRRA27060',
+    meta_id: 958392,
+    post_id: 54947,
+    meta_key: '_sku',
+    meta_value: 'BCRRA27060'
+  },
+  {
+    id: 54948,
+    FIELD: '_sku',
+    value: 'BR4030',
+    meta_id: 958410,
+    post_id: 54948,
+    meta_key: '_sku',
+    meta_value: 'BR4030'
+  },
+  {
+    id: 54949,
+    FIELD: '_sku',
+    value: 'BR4484',
+    meta_id: 958428,
+    post_id: 54949,
+    meta_key: '_sku',
+    meta_value: 'BR4484'
+  },
+  {
+    id: 54950,
+    FIELD: '_sku',
+    value: 'BR4527',
+    meta_id: 958446,
+    post_id: 54950,
+    meta_key: '_sku',
+    meta_value: 'BR4527'
+  },
+  {
+    id: 54951,
+    FIELD: '_sku',
+    value: 'BR51974',
+    meta_id: 958464,
+    post_id: 54951,
+    meta_key: '_sku',
+    meta_value: 'BR51974'
+  },
+  {
+    id: 54952,
+    FIELD: '_sku',
+    value: 'BR7023',
+    meta_id: 958482,
+    post_id: 54952,
+    meta_key: '_sku',
+    meta_value: 'BR7023'
+  },
+  {
+    id: 54953,
+    FIELD: '_sku',
+    value: 'BR8177',
+    meta_id: 958500,
+    post_id: 54953,
+    meta_key: '_sku',
+    meta_value: 'BR8177'
+  },
+  {
+    id: 54954,
+    FIELD: '_sku',
+    value: 'BRBR1101',
+    meta_id: 958518,
+    post_id: 54954,
+    meta_key: '_sku',
+    meta_value: 'BRBR1101'
+  },
+  {
+    id: 54955,
+    FIELD: '_sku',
+    value: 'BRBR1649',
+    meta_id: 958536,
+    post_id: 54955,
+    meta_key: '_sku',
+    meta_value: 'BRBR1649'
+  },
+  {
+    id: 54956,
+    FIELD: '_sku',
+    value: 'BRBR1650',
+    meta_id: 958554,
+    post_id: 54956,
+    meta_key: '_sku',
+    meta_value: 'BRBR1650'
+  },
+  {
+    id: 54957,
+    FIELD: '_sku',
+    value: 'BRBX0016',
+    meta_id: 958572,
+    post_id: 54957,
+    meta_key: '_sku',
+    meta_value: 'BRBX0016'
+  },
+  {
+    id: 54958,
+    FIELD: '_sku',
+    value: 'BRCD2004',
+    meta_id: 958590,
+    post_id: 54958,
+    meta_key: '_sku',
+    meta_value: 'BRCD2004'
+  },
+  {
+    id: 54959,
+    FIELD: '_sku',
+    value: 'BS00018',
+    meta_id: 958608,
+    post_id: 54959,
+    meta_key: '_sku',
+    meta_value: 'BS00018'
+  },
+  {
+    id: 54960,
+    FIELD: '_sku',
+    value: 'BS00697',
+    meta_id: 958626,
+    post_id: 54960,
+    meta_key: '_sku',
+    meta_value: 'BS00697'
+  },
+  {
+    id: 54961,
+    FIELD: '_sku',
+    value: 'BS0242235666',
+    meta_id: 958644,
+    post_id: 54961,
+    meta_key: '_sku',
+    meta_value: 'BS0242235666'
+  },
+  {
+    id: 54962,
+    FIELD: '_sku',
+    value: 'BS09386',
+    meta_id: 958662,
+    post_id: 54962,
+    meta_key: '_sku',
+    meta_value: 'BS09386'
+  },
+  {
+    id: 54963,
+    FIELD: '_sku',
+    value: 'CD1109AY',
+    meta_id: 958680,
+    post_id: 54963,
+    meta_key: '_sku',
+    meta_value: 'CD1109AY'
+  },
+  {
+    id: 54964,
+    FIELD: '_sku',
+    value: 'CDKL581',
+    meta_id: 958698,
+    post_id: 54964,
+    meta_key: '_sku',
+    meta_value: 'CDKL581'
+  },
+  {
+    id: 54965,
+    FIELD: '_sku',
+    value: 'CI1109AY',
+    meta_id: 958716,
+    post_id: 54965,
+    meta_key: '_sku',
+    meta_value: 'CI1109AY'
+  },
+  {
+    id: 54966,
+    FIELD: '_sku',
+    value: 'CLMA1328',
+    meta_id: 958734,
+    post_id: 54966,
+    meta_key: '_sku',
+    meta_value: 'CLMA1328'
+  },
+  {
+    id: 54967,
+    FIELD: '_sku',
+    value: 'CPCOF100128S',
+    meta_id: 958752,
+    post_id: 54967,
+    meta_key: '_sku',
+    meta_value: 'CPCOF100128S'
+  },
+  {
+    id: 54968,
+    FIELD: '_sku',
+    value: 'CS05W30',
+    meta_id: 958770,
+    post_id: 54968,
+    meta_key: '_sku',
+    meta_value: 'CS05W30'
+  },
+  {
+    id: 54969,
+    FIELD: '_sku',
+    value: 'CS05W30FORD',
+    meta_id: 958788,
+    post_id: 54969,
+    meta_key: '_sku',
+    meta_value: 'CS05W30FORD'
+  },
+  {
+    id: 54970,
+    FIELD: '_sku',
+    value: 'CS127033',
+    meta_id: 958806,
+    post_id: 54970,
+    meta_key: '_sku',
+    meta_value: 'CS127033'
+  },
+  {
+    id: 54971,
+    FIELD: '_sku',
+    value: 'CS7711943680',
+    meta_id: 958824,
+    post_id: 54971,
+    meta_key: '_sku',
+    meta_value: 'CS7711943680'
+  },
+  {
+    id: 54972,
+    FIELD: '_sku',
+    value: 'DE0600240',
+    meta_id: 958842,
+    post_id: 54972,
+    meta_key: '_sku',
+    meta_value: 'DE0600240'
+  },
+  {
+    id: 54973,
+    FIELD: '_sku',
+    value: 'DE771201',
+    meta_id: 958860,
+    post_id: 54973,
+    meta_key: '_sku',
+    meta_value: 'DE771201'
+  },
+  {
+    id: 54974,
+    FIELD: '_sku',
+    value: 'DE771251',
+    meta_id: 958878,
+    post_id: 54974,
+    meta_key: '_sku',
+    meta_value: 'DE771251'
+  },
+  {
+    id: 54975,
+    FIELD: '_sku',
+    value: 'DE771291',
+    meta_id: 958896,
+    post_id: 54975,
+    meta_key: '_sku',
+    meta_value: 'DE771291'
+  },
+  {
+    id: 54976,
+    FIELD: '_sku',
+    value: 'DE771351',
+    meta_id: 958914,
+    post_id: 54976,
+    meta_key: '_sku',
+    meta_value: 'DE771351'
+  },
+  {
+    id: 54977,
+    FIELD: '_sku',
+    value: 'DE771901',
+    meta_id: 958932,
+    post_id: 54977,
+    meta_key: '_sku',
+    meta_value: 'DE771901'
+  },
+  {
+    id: 54978,
+    FIELD: '_sku',
+    value: 'DEMOD105',
+    meta_id: 958950,
+    post_id: 54978,
+    meta_key: '_sku',
+    meta_value: 'DEMOD105'
+  },
+  {
+    id: 54979,
+    FIELD: '_sku',
+    value: 'EL131665',
+    meta_id: 958968,
+    post_id: 54979,
+    meta_key: '_sku',
+    meta_value: 'EL131665'
+  },
+  {
+    id: 54980,
+    FIELD: '_sku',
+    value: 'FB103509',
+    meta_id: 958986,
+    post_id: 54980,
+    meta_key: '_sku',
+    meta_value: 'FB103509'
+  },
+  {
+    id: 54981,
+    FIELD: '_sku',
+    value: 'FDFK10287',
+    meta_id: 959004,
+    post_id: 54981,
+    meta_key: '_sku',
+    meta_value: 'FDFK10287'
+  },
+  {
+    id: 54982,
+    FIELD: '_sku',
+    value: 'FEFDB1467',
+    meta_id: 959022,
+    post_id: 54982,
+    meta_key: '_sku',
+    meta_value: 'FEFDB1467'
+  },
+  {
+    id: 54983,
+    FIELD: '_sku',
+    value: 'FEFHW038',
+    meta_id: 959040,
+    post_id: 54983,
+    meta_key: '_sku',
+    meta_value: 'FEFHW038'
+  },
+  {
+    id: 54984,
+    FIELD: '_sku',
+    value: 'FG6204C2HRSC3',
+    meta_id: 959058,
+    post_id: 54984,
+    meta_key: '_sku',
+    meta_value: 'FG6204C2HRSC3'
+  },
+  {
+    id: 54985,
+    FIELD: '_sku',
+    value: 'FI55249868',
+    meta_id: 959076,
+    post_id: 54985,
+    meta_key: '_sku',
+    meta_value: 'FI55249868'
+  },
+  {
+    id: 54986,
+    FIELD: '_sku',
+    value: 'FI55265660',
+    meta_id: 959094,
+    post_id: 54986,
+    meta_key: '_sku',
+    meta_value: 'FI55265660'
+  },
+  ... 31191 more items
+]
+[ 54887 ]
+Fine sync
+Aggiornamento prodotti|QTA in corso  1
+Aggiornamento su woocommerce di FB104337
+Aggiornamento quantità in faco 1 to 0
+Aggiornamento prodotti|PRICE in corso  0
+Aggiornamento prodotti|NEW in corso  0
+Sync in corso
+trovati 31291 prodotti
+[
+  55197, 55196, 80776, 79982, 55482, 84478,
+  84538, 87047, 87094, 87100, 87101, 87102,
+  87103, 87104, 87105, 87106, 87107, 87108,
+  87109, 87110, 87111, 87112, 87113, 87114,
+  87115, 87116, 87117, 87118, 87119, 87120,
+  87121, 87122, 87123, 87124, 87125, 87126,
+  87127, 87128, 87129, 87130, 87131, 87132,
+  87133, 87134, 87135, 87136, 87137, 87138,
+  87139, 87140, 87141, 87142, 87143, 87144,
+  87145, 87146, 87147, 87153, 87154, 87155,
+  87156, 87157, 87158, 87159, 87160, 87161
+]
+Fine sync
+Aggiornamento prodotti|QTA in corso  1
+Aggiornamento su woocommerce di AH100HH01
+Aggiornamento quantità in faco 0 to 1
+Aggiornamento prodotti|PRICE in corso  0
+Aggiornamento prodotti|NEW in corso  0
+Sync in corso
+trovati 31291 prodotti
+delete from from sgrricambi_products where wc_id in(55197,55196,80776,79982,55482,84478,84538,87047,87094,87100,87101,87102,87103,87104,87105,87106,87107,87108,87109,87110,87111,87112,87113,87114,87115,87116,87117,87118,87119,87120,87121,87122,87123,87124,87125,87126,87127,87128,87129,87130,87131,87132,87133,87134,87135,87136,87137,87138,87139,87140,87141,87142,87143,87144,87145,87146,87147,87153,87154,87155,87156,87157,87158,87159,87160,87161)
+Fine sync
+Aggiornamento prodotti|QTA in corso  1
+Aggiornamento su woocommerce di FB104337
+Aggiornamento quantità in faco 1 to 0
+Aggiornamento prodotti|PRICE in corso  0
+Aggiornamento prodotti|NEW in corso  0
+Sync in corso
+trovati 31291 prodotti
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from sgrricambi_products where wc_id in(55197,55196,80776,79982,55482,84478,8...' at line 1
+    at PromisePool.query (E:\nodeProjects\Faco\faco_connector\node_modules\mysql2\promise.js:351:22)
+    at module.exports.sync (E:\nodeProjects\Faco\faco_connector\utils\mysql.js:181:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async main (E:\nodeProjects\Faco\faco_connector\index.js:49:5) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sql: 'delete from from sgrricambi_products where wc_id in(55197,55196,80776,79982,55482,84478,84538,87047,87094,87100,87101,87102,87103,87104,87105,87106,87107,87108,87109,87110,87111,87112,87113,87114,87115,87116,87117,87118,87119,87120,87121,87122,87123,87124,87125,87126,87127,87128,87129,87130,87131,87132,87133,87134,87135,87136,87137,87138,87139,87140,87141,87142,87143,87144,87145,87146,87147,87153,87154,87155,87156,87157,87158,87159,87160,87161)',
+  sqlState: '42000',
+  sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from sgrricambi_products where wc_id in(55197,55196,80776,79982,55482,84478,8...' at line 1"
+}
+Sync in corso
+trovati 31291 prodotti
+Fine sync
+Aggiornamento prodotti|QTA in corso  1
+Aggiornamento su woocommerce di AH100HH01
+Aggiornamento quantità in faco 0 to 1
+Aggiornamento prodotti|PRICE in corso  0
+Aggiornamento prodotti|NEW in corso  59
+Post wc 59 products 0/1
+Creazione undefined in faco
+Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (E:\nodeProjects\Faco\faco_connector\node_modules\mysql2\promise.js:369:22)
+    at create_product (E:\nodeProjects\Faco\faco_connector\utils\mysql.js:148:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async module.exports.products_update (E:\nodeProjects\Faco\faco_connector\utils\mysql.js:156:3)
+    at async main (E:\nodeProjects\Faco\faco_connector\index.js:50:5) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+Sync in corso
+trovati 31365 prodotti
+trovati 0 prodotti non esistenti
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+    at PromisePool.query (E:\nodeProjects\Faco\faco_connector\node_modules\mysql2\promise.js:351:22)
+    at module.exports.sync (E:\nodeProjects\Faco\faco_connector\utils\mysql.js:182:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async main (E:\nodeProjects\Faco\faco_connector\index.js:49:5) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sql: 'delete from sgrricambi_products where wc_id in()',
+  sqlState: '42000',
+  sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1"
+}
+Sync in corso
+trovati 31365 prodotti
+trovati 0 prodotti non esistenti
+Fine sync
+Aggiornamento prodotti|QTA in corso  1
+Aggiornamento su woocommerce di AH100HH01
+Aggiornamento quantità in faco 0 to 1
+Aggiornamento prodotti|PRICE in corso  0
+Aggiornamento prodotti|NEW in corso  0
+Sync in corso
+trovati 31365 prodotti
+trovati 0 prodotti non esistenti
+Fine sync
+Aggiornamento prodotti|QTA in corso  1
+Aggiornamento su woocommerce di FB104337
+Aggiornamento quantità in faco 1 to 0
+Aggiornamento prodotti|PRICE in corso  0
+Aggiornamento prodotti|NEW in corso  0
+Sync in corso
+trovati 31365 prodotti
+trovati 0 prodotti non esistenti
+Fine sync
+Aggiornamento prodotti|QTA in corso  1
+Aggiornamento su woocommerce di FB104337
+Aggiornamento quantità in faco 1 to 0
+Aggiornamento prodotti|PRICE in corso  0
+Aggiornamento prodotti|NEW in corso  0
+Sync in corso
+trovati 31365 prodotti
+trovati 0 prodotti non esistenti
+Fine sync
+Aggiornamento prodotti|QTA in corso  1
+Aggiornamento su woocommerce di AH100HH01
+{
+  status: 200,
+  statusText: 'OK',
+  headers: AxiosHeaders {
+    connection: 'close',
+    'set-cookie': [ 'PHPSESSID=aeec8ac79d33bfbfdd5e35903f87a447; path=/; secure' ],
+    pragma: 'no-cache',
+    'content-type': 'application/json; charset=UTF-8',
+    'x-robots-tag': 'noindex',
+    link: '<https://sgrricambi.it/wp-json/>; rel="https://api.w.org/"',
+    'x-content-type-options': 'nosniff',
+    'access-control-expose-headers': 'X-WP-Total, X-WP-TotalPages, Link',
+    'access-control-allow-headers': 'Authorization, X-WP-Nonce, Content-Disposition, Content-MD5, Content-Type',
+    expires: 'Wed, 11 Jan 1984 05:00:00 GMT',
+    'cache-control': 'no-cache, must-revalidate, max-age=0',
+    allow: 'GET, POST, PUT, PATCH, DELETE',
+    'content-length': '3286',
+    date: 'Tue, 09 May 2023 17:59:31 GMT',
+    vary: 'User-Agent',
+    'alt-svc': 'h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"'
+  },
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [ 'xhr', 'http' ],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 600000,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    env: { FormData: [Function], Blob: [class Blob] },
+    validateStatus: [Function: validateStatus],
+    headers: AxiosHeaders {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json; charset=UTF-8',
+      'Accept-Encoding': 'application/json',
+      'User-Agent': 'axios/1.2.3',
+      'Content-Length': '20'
+    },
+    baseURL: 'https://sgrricambi.it/wp-json/wc',
+    httpsAgent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(kCapture)]: false
+    },
+    auth: {
+      username: 'ck_c0158e005eeb17c13f56535af46d2ae92d70a673',
+      password: 'cs_6e83d09efaad6365cd0311049249c0a666f97ddb'
+    },
+    method: 'put',
+    url: '/v3/products/87057',
+    data: '{"stock_quantity":1}'
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      finish: [Function: requestOnFinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    strictContentLength: false,
+    _contentLength: '20',
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: false,
+      _SNICallback: null,
+      servername: 'sgrricambi.it',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 10,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'sgrricambi.it',
+      _closeAfterHandlingError: false,
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: false,
+      parser: null,
+      _httpMessage: [Circular *1],
+      timeout: 600000,
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(verified)]: true,
+      [Symbol(pendingSession)]: null,
+      [Symbol(async_id_symbol)]: 1408,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: Timeout {
+        _idleTimeout: 600000,
+        _idlePrev: [TimersList],
+        _idleNext: [TimersList],
+        _idleStart: 19469,
+        _onTimeout: [Function: bound ],
+        _timerArgs: undefined,
+        _repeat: null,
+        _destroyed: false,
+        [Symbol(refed)]: false,
+        [Symbol(kHasPrimitive)]: false,
+        [Symbol(asyncId)]: 1417,
+        [Symbol(triggerId)]: 1412
+      },
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(kSetKeepAlive)]: true,
+      [Symbol(kSetKeepAliveInitialDelay)]: 60,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object]
+    },
+    _header: 'PUT /wp-json/wc/v3/products/87057 HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json; charset=UTF-8\r\n' +
+      'Accept-Encoding: application/json\r\n' +
+      'User-Agent: axios/1.2.3\r\n' +
+      'Content-Length: 20\r\n' +
+      'Host: sgrricambi.it\r\n' +
+      'Authorization: Basic Y2tfYzAxNThlMDA1ZWViMTdjMTNmNTY1MzVhZjQ2ZDJhZTkyZDcwYTY3Mzpjc182ZTgzZDA5ZWZhYWQ2MzY1Y2QwMzExMDQ5MjQ5YzBhNjY2Zjk3ZGRi\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'PUT',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    joinDuplicateHeaders: undefined,
+    path: '/wp-json/wc/v3/products/87057',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      joinDuplicateHeaders: undefined,
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 200,
+      statusMessage: 'OK',
+      client: [TLSSocket],
+      _consuming: true,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'https://ck_c0158e005eeb17c13f56535af46d2ae92d70a673:cs_6e83d09efaad6365cd0311049249c0a666f97ddb@sgrricambi.it/wp-json/wc/v3/products/87057',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 32,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'sgrricambi.it',
+    protocol: 'https:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 20,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://ck_c0158e005eeb17c13f56535af46d2ae92d70a673:cs_6e83d09efaad6365cd0311049249c0a666f97ddb@sgrricambi.it/wp-json/wc/v3/products/87057',
+      _timeout: null,
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kBytesWritten)]: 0,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'accept-encoding': [Array],
+      'user-agent': [Array],
+      'content-length': [Array],
+      host: [Array],
+      authorization: [Array]
+    },
+    [Symbol(errored)]: null,
+    [Symbol(kUniqueHeaders)]: null
+  },
+  data: {
+    id: 87057,
+    name: 'F OLIO',
+    slug: '',
+    permalink: 'https://sgrricambi.it/?post_type=product&p=87057',
+    date_created: '2023-05-09T17:29:04',
+    date_created_gmt: '2023-05-09T17:29:04',
+    date_modified: '2023-05-09T17:59:31',
+    date_modified_gmt: '2023-05-09T17:59:31',
+    type: 'simple',
+    status: 'draft',
+    featured: false,
+    catalog_visibility: 'visible',
+    description: '',
+    short_description: '',
+    sku: 'FB104337',
+    price: '8',
+    regular_price: '8',
+    sale_price: '',
+    date_on_sale_from: null,
+    date_on_sale_from_gmt: null,
+    date_on_sale_to: null,
+    date_on_sale_to_gmt: null,
+    on_sale: false,
+    purchasable: true,
+    total_sales: 0,
+    virtual: false,
+    downloadable: false,
+    downloads: [],
+    download_limit: -1,
+    download_expiry: -1,
+    external_url: '',
+    button_text: '',
+    tax_status: 'taxable',
+    tax_class: '',
+    manage_stock: true,
+    stock_quantity: 1,
+    backorders: 'no',
+    backorders_allowed: false,
+    backordered: false,
+    low_stock_amount: null,
+    sold_individually: false,
+    weight: '',
+    dimensions: { length: '', width: '', height: '' },
+    shipping_required: true,
+    shipping_taxable: true,
+    shipping_class: '',
+    shipping_class_id: 0,
+    reviews_allowed: true,
+    average_rating: '0',
+    rating_count: 0,
+    upsell_ids: [],
+    cross_sell_ids: [],
+    parent_id: 0,
+    purchase_note: '',
+    categories: [ [Object] ],
+    tags: [],
+    images: [],
+    attributes: [],
+    default_attributes: [],
+    variations: [],
+    grouped_products: [],
+    menu_order: 0,
+    price_html: '<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&euro;</span>8,00</bdi></span>',
+    related_ids: [ 77034, 73292, 55773, 84821, 71818 ],
+    meta_data: [],
+    stock_status: 'instock',
+    has_options: false,
+    permalink_template: 'https://sgrricambi.it/prodotto/%pagename%/',
+    generated_slug: 'f-olio',
+    gpf_data: {
+      description: null,
+      availability: null,
+      is_bundle: null,
+      availability_date: null,
+      condition: null,
+      brand: null,
+      mpn: null,
+      product_type: null,
+      google_product_category: null,
+      tax_category: null,
+      gtin: null,
+      gender: null,
+      age_group: null,
+      color: null,
+      size: null,
+      size_type: null,
+      size_system: null,
+      unit_pricing_measure: null,
+      unit_pricing_base_measure: null,
+      multipack: null,
+      installment: null,
+      material: null,
+      pattern: null,
+      adult: null,
+      identifier_exists: null,
+      adwords_grouping: null,
+      adwords_labels: null,
+      bing_category: null,
+      shipping_label: null,
+      transit_time_label: null,
+      min_handling_time: null,
+      max_handling_time: null,
+      energy_efficiency_class: null,
+      min_energy_efficiency_class: null,
+      max_energy_efficiency_class: null,
+      energy_label_image_link: null,
+      cost_of_goods_sold: null,
+      included_destination: null,
+      excluded_destination: null,
+      consumer_notice: null,
+      product_highlight: null,
+      product_detail: null,
+      consumer_datasheet: null,
+      product_fee: null,
+      sell_on_google_quantity: null,
+      purchase_quantity_limit: null,
+      google_funded_promotion_eligibility: null,
+      return_address_label: null,
+      return_policy_label: null,
+      custom_label_0: null,
+      custom_label_1: null,
+      custom_label_2: null,
+      custom_label_3: null,
+      custom_label_4: null,
+      promotion_id: null,
+      shippingprice: null,
+      shippingcountryprice: null,
+      shippingcountryserviceprice: null,
+      exclude_product: null
+    },
+    _links: { self: [Array], collection: [Array] }
+  }
+}
+Aggiornamento quantità in faco 0 to 1
+Aggiornamento prodotti|PRICE in corso  0
+Aggiornamento prodotti|NEW in corso  0
+Sync in corso
+trovati 31365 prodotti
+trovati 0 prodotti non esistenti
+Fine sync
+Aggiornamento prodotti|QTA in corso  1
+Aggiornamento su woocommerce di FB104337
+Aggiornamento quantità in faco 1 to 0
+Aggiornamento prodotti|PRICE in corso  31124
+Aggiornamento su woocommerce di 95801287000
+Aggiornamento prezzo in faco 256.2 to 210
+Aggiornamento su woocommerce di 95CR2006
+Aggiornamento prezzo in faco 85.4 to 70
+Aggiornamento su woocommerce di ABS10106
+Aggiornamento prezzo in faco 10.98 to 9
+Aggiornamento su woocommerce di ABS10107
+Aggiornamento prezzo in faco 20.13 to 16.5
+Aggiornamento su woocommerce di ABS10109
+Aggiornamento prezzo in faco 17.08 to 14
+Aggiornamento su woocommerce di ABS10116
+Aggiornamento prezzo in faco 14.64 to 12
+Aggiornamento su woocommerce di ABS10118
+Aggiornamento prezzo in faco 9.76 to 8
+Aggiornamento su woocommerce di ABS10123
+Aggiornamento prezzo in faco 8.54 to 7
+Aggiornamento su woocommerce di ABS10209
+Aggiornamento prezzo in faco 7.32 to 6
+Aggiornamento su woocommerce di ABS10213
+Aggiornamento prezzo in faco 15.25 to 12.5
+Aggiornamento su woocommerce di ABS10221
+Aggiornamento prezzo in faco 8.54 to 7
+Aggiornamento su woocommerce di ABS10410
+Aggiornamento prezzo in faco 11.59 to 9.5
+Aggiornamento su woocommerce di ABS10421
+Aggiornamento prezzo in faco 18.3 to 15
+Aggiornamento su woocommerce di ABS15841
+Aggiornamento prezzo in faco 43.92 to 36
+Aggiornamento su woocommerce di ABS16105
+Aggiornamento prezzo in faco 73.2 to 60
+Aggiornamento su woocommerce di ABS16181
+Aggiornamento prezzo in faco 70.76 to 58
+Aggiornamento su woocommerce di ABS16298
+Aggiornamento prezzo in faco 76.86 to 63
+Aggiornamento su woocommerce di ABS16627
+Aggiornamento prezzo in faco 30.5 to 25
+Aggiornamento su woocommerce di ABS17006
+Aggiornamento prezzo in faco 107.36 to 88
+Aggiornamento su woocommerce di ABS17028
+Aggiornamento prezzo in faco 85.4 to 70
+Aggiornamento su woocommerce di ABS17159
+Aggiornamento prezzo in faco 134.2 to 110
+Aggiornamento su woocommerce di ABS17181
+Aggiornamento prezzo in faco 75.64 to 62
+Aggiornamento su woocommerce di ABS17481
+Aggiornamento prezzo in faco 93.696 to 76.8
+Aggiornamento su woocommerce di ABS17617
+Aggiornamento prezzo in faco 64.66 to 53
+Aggiornamento su woocommerce di ABS17628
+Aggiornamento prezzo in faco 71.98 to 59
+Aggiornamento su woocommerce di ABS17850
+Aggiornamento prezzo in faco 108.58 to 89
+Aggiornamento su woocommerce di ABS20103
+Aggiornamento prezzo in faco 58.56 to 48
+Aggiornamento su woocommerce di ABS20103/1
+Aggiornamento prezzo in faco 39.04 to 32
+Aggiornamento su woocommerce di ABS20106
+Aggiornamento prezzo in faco 46.36 to 38
+Aggiornamento su woocommerce di ABS211850
+Aggiornamento prezzo in faco 74.42 to 61
+Aggiornamento su woocommerce di ABS211851
+Aggiornamento prezzo in faco 74.42 to 61
+Aggiornamento su woocommerce di ABS35173
+Aggiornamento prezzo in faco 61 to 50
+Aggiornamento su woocommerce di ABS35174
+Aggiornamento prezzo in faco 97.6 to 80
+Aggiornamento su woocommerce di ABS36011
+Aggiornamento prezzo in faco 33.55 to 27.5
+Aggiornamento su woocommerce di ABS36013
+Aggiornamento prezzo in faco 24.4 to 20
+Aggiornamento su woocommerce di ABS36035
+Aggiornamento prezzo in faco 73.2 to 60
+Aggiornamento su woocommerce di ABS36046
+Aggiornamento prezzo in faco 24.4 to 20
+Aggiornamento su woocommerce di ABS36067
+Aggiornamento prezzo in faco 27.45 to 22.5
+Aggiornamento su woocommerce di ABS36114
+Aggiornamento prezzo in faco 21.96 to 18
+Aggiornamento su woocommerce di ABS36129
+Aggiornamento prezzo in faco 40.87 to 33.5
+Aggiornamento su woocommerce di ABS36146
+Aggiornamento prezzo in faco 36.6 to 30
+Aggiornamento su woocommerce di ABS36489
+Aggiornamento prezzo in faco 46.36 to 38
+Aggiornamento su woocommerce di ABS36571
+Aggiornamento prezzo in faco 46.97 to 38.5
+Aggiornamento su woocommerce di ABS36574
+Aggiornamento prezzo in faco 48.19 to 39.5
+Aggiornamento su woocommerce di ABS36578
+Aggiornamento prezzo in faco 26.84 to 22
+Aggiornamento su woocommerce di ABS36607
+Aggiornamento prezzo in faco 40.26 to 33
+Aggiornamento su woocommerce di ABS36616
+Aggiornamento prezzo in faco 40.26 to 33
+Aggiornamento su woocommerce di ABS36629
+Aggiornamento prezzo in faco 98.82 to 81
+Aggiornamento su woocommerce di ABS36660
+Aggiornamento prezzo in faco 44.53 to 36.5
+Aggiornamento su woocommerce di ABS36667
+Aggiornamento prezzo in faco 57.95 to 47.5
+Aggiornamento su woocommerce di ABS36676
+Aggiornamento prezzo in faco 59.17 to 48.5
+Aggiornamento su woocommerce di ABS36687
+Aggiornamento prezzo in faco 33.55 to 27.5
+Aggiornamento su woocommerce di ABS36690
+Aggiornamento prezzo in faco 46.36 to 38
+Aggiornamento su woocommerce di ABS36706
+Aggiornamento prezzo in faco 74.42 to 61
+Aggiornamento su woocommerce di ABS36709
+Aggiornamento prezzo in faco 21.96 to 18
+Aggiornamento su woocommerce di ABS36710
+Aggiornamento prezzo in faco 96.38 to 79
+Aggiornamento su woocommerce di ABS36737
+Aggiornamento prezzo in faco 86.62 to 71
+Aggiornamento su woocommerce di ABS36739
+Aggiornamento prezzo in faco 54.9 to 45
+Aggiornamento su woocommerce di ABS36749
+Aggiornamento prezzo in faco 111.63 to 91.5
+Aggiornamento su woocommerce di ABS36755
+Aggiornamento prezzo in faco 93.33 to 76.5
+Aggiornamento su woocommerce di ABS36762
+Aggiornamento prezzo in faco 39.04 to 32
+Aggiornamento su woocommerce di ABS36768
+Aggiornamento prezzo in faco 69.54 to 57
+Aggiornamento su woocommerce di ABS36773
+Aggiornamento prezzo in faco 105.53 to 86.5
+Aggiornamento su woocommerce di ABS36780
+Aggiornamento prezzo in faco 68.93 to 56.5
+Aggiornamento su woocommerce di ABS36787
+Aggiornamento prezzo in faco 51.85 to 42.5
+Aggiornamento su woocommerce di ABS36794
+Aggiornamento prezzo in faco 45.14 to 37
+Aggiornamento su woocommerce di ABS36795
+Aggiornamento prezzo in faco 64.05 to 52.5
+Aggiornamento su woocommerce di ABS36800
+Aggiornamento prezzo in faco 82.96 to 68
+Aggiornamento su woocommerce di ABS36806
+Aggiornamento prezzo in faco 99.43 to 81.5
+Aggiornamento su woocommerce di ABS36831
+Aggiornamento prezzo in faco 24.4 to 20
+Aggiornamento su woocommerce di ABS36836
+Aggiornamento prezzo in faco 66.49 to 54.5
+Aggiornamento su woocommerce di ABS36840
+Aggiornamento prezzo in faco 66.49 to 54.5
+Aggiornamento su woocommerce di ABS36849
+Aggiornamento prezzo in faco 45.75 to 37.5
+Aggiornamento su woocommerce di ABS36850
+Aggiornamento prezzo in faco 49.41 to 40.5
+Aggiornamento su woocommerce di ABS36854
+Aggiornamento prezzo in faco 21.35 to 17.5
+Aggiornamento su woocommerce di ABS36861
+Aggiornamento prezzo in faco 53.07 to 43.5
+Aggiornamento su woocommerce di ABS36867
+Aggiornamento prezzo in faco 66.49 to 54.5
+Aggiornamento su woocommerce di ABS36869
+Aggiornamento prezzo in faco 58.56 to 48
+Aggiornamento su woocommerce di ABS36879
+Aggiornamento prezzo in faco 60.39 to 49.5
+Aggiornamento su woocommerce di ABS36880
+Aggiornamento prezzo in faco 97.6 to 80
+Aggiornamento su woocommerce di ABS36886
+Aggiornamento prezzo in faco 57.34 to 47
+Aggiornamento su woocommerce di ABS36887
+Aggiornamento prezzo in faco 56.73 to 46.5
+Aggiornamento su woocommerce di ABS36900
+Aggiornamento prezzo in faco 62.83 to 51.5
+Aggiornamento su woocommerce di ABS36918
+Aggiornamento prezzo in faco 64.05 to 52.5
+Aggiornamento su woocommerce di ABS36927
+Aggiornamento prezzo in faco 63.44 to 52
+Aggiornamento su woocommerce di ABS36939
+Aggiornamento prezzo in faco 57.34 to 47
+Aggiornamento su woocommerce di ABS36941
+Aggiornamento prezzo in faco 110.41 to 90.5
+Aggiornamento su woocommerce di ABS36943
+Aggiornamento prezzo in faco 95.16 to 78
+Aggiornamento su woocommerce di ABS36946
+Aggiornamento prezzo in faco 120.78 to 99
+Aggiornamento su woocommerce di ABS36955
+Aggiornamento prezzo in faco 53.68 to 44
+Aggiornamento su woocommerce di ABS36958
+Aggiornamento prezzo in faco 110.41 to 90.5
+Aggiornamento su woocommerce di ABS36960
+Aggiornamento prezzo in faco 57.34 to 47
+Aggiornamento su woocommerce di ABS36972
+Aggiornamento prezzo in faco 76.86 to 63
+Aggiornamento su woocommerce di ABS36976
+Aggiornamento prezzo in faco 65.27 to 53.5
+Aggiornamento su woocommerce di ABS36983
+Aggiornamento prezzo in faco 76.86 to 63
+Aggiornamento su woocommerce di ABS37000
+Aggiornamento prezzo in faco 105.53 to 86.5
+Aggiornamento su woocommerce di ABS37009
+Aggiornamento prezzo in faco 57.34 to 47
+Aggiornamento su woocommerce di ABS37012
+Aggiornamento prezzo in faco 61 to 50
+Aggiornamento su woocommerce di ABS37013
+Aggiornamento prezzo in faco 61 to 50
+Aggiornamento su woocommerce di ABS37029
+Aggiornamento prezzo in faco 47.58 to 39
+Aggiornamento su woocommerce di ABS37054
+Aggiornamento prezzo in faco 43.31 to 35.5
+Aggiornamento su woocommerce di ABS37058
+Aggiornamento prezzo in faco 85.4 to 70
+Aggiornamento su woocommerce di ABS37065
+Aggiornamento prezzo in faco 29.28 to 24
+Aggiornamento su woocommerce di ABS37079
+Aggiornamento prezzo in faco 15.86 to 13
+Aggiornamento su woocommerce di ABS37098
+Aggiornamento prezzo in faco 57.34 to 47
+Aggiornamento su woocommerce di ABS37099
+Aggiornamento prezzo in faco 87.23 to 71.5
+Aggiornamento su woocommerce di ABS37102
+Aggiornamento prezzo in faco 114.68 to 94
+Aggiornamento su woocommerce di ABS37110
+Aggiornamento prezzo in faco 112.24 to 92
+Aggiornamento su woocommerce di ABS37111
+Aggiornamento prezzo in faco 74.42 to 61
+Aggiornamento su woocommerce di ABS37121
+Aggiornamento prezzo in faco 64.66 to 53
+Aggiornamento su woocommerce di ABS37130

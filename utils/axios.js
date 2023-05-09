@@ -41,8 +41,6 @@ module.exports.createProducts = async function (faco_products) {
   const res = await axios.post(`/v3/products/batch`, { create });
   return res.data.create
 }
-
-
 module.exports.put_products = async function (update_products) {
 
   const update = update_products.map(np => ({
@@ -59,11 +57,14 @@ module.exports.put_products = async function (update_products) {
   }
 
 }
-
 module.exports.put_products_qta = async function (product) {
   const { qtan, wc_id } = product
-
-  await axios.put(`/v3/products/${wc_id}`, { stock_quantity: qtan } );
+  try {
+    await axios.put(`/v3/products/${wc_id}`, { stock_quantity: qtan } );
+  } catch (error) {
+    console.log( error.response.data.message )
+    throw error.response.data.code
+  }
 
   return;
 }
@@ -74,7 +75,6 @@ module.exports.put_products_price = async function (product) {
 
   return;
 }
-
 module.exports.get_products = async function (page = 1, per_page = 100) {
 
   try {

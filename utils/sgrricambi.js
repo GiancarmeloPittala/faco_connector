@@ -11,7 +11,6 @@ const pool = mysql.createPool({
 
 const conn = pool.promise();
 
-
 module.exports.getAllProducts = async function () {
   
   try {

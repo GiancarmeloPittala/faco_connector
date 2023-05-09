@@ -81,7 +81,11 @@ async function update_product_qta() {
 
     if (product.wc_id != null) {
       console.log(`Aggiornamento su woocommerce di ${product.codart}`)
-      await put_products_qta(product)
+      try {
+        await put_products_qta(product)
+      } catch (error) {
+        console.log( error )
+      }
 
       console.log(`Aggiornamento quantità in faco ${product.qta} to ${product.qtan}`)
       await conn.query(`update sgrricambi_products set qta = ${product.qtan} where wc_id = ${product.wc_id}`)
@@ -95,7 +99,7 @@ async function update_product_qta() {
 
 async function update_product_price() {
   // aggiorno il price 
-  const sql_price = `select sp.*, a.pre1 from 01_anaart a right join sgrricambi_products sp on a.codart = sp.codart where a.pre1 != sp.price;`
+  const sql_price = `select sp.*, (a.pre1 + ( a.pre1 / 100 * 22 )) as pre1 from 01_anaart a right join sgrricambi_products sp on a.codart = sp.codart where (a.pre1 + ( a.pre1 / 100 * 22 )) != sp.price;`
 
   let [rows_products_price] = await conn.query(sql_price);
   console.log("Aggiornamento prodotti|PRICE in corso ", rows_products_price.length)
@@ -106,7 +110,7 @@ async function update_product_price() {
       console.log(`Aggiornamento su woocommerce di ${product.codart}`)
       await put_products_price(product)
 
-      console.log(`Aggiornamento prezzo in faco ${product.pre1} to ${product.price}`)
+      console.log(`Aggiornamento prezzo in faco ${product.price} to ${product.pre1}`)
       await conn.query(`update sgrricambi_products set price = ${product.pre1} where wc_id = ${product.wc_id}`)
 
     } else {
@@ -150,23 +154,32 @@ module.exports.products_update = async function () {
   await update_product_qta();
   await update_product_price();
   await create_product();
-
-
-
 }
-
-module
 
 module.exports.sync = async function () {
   console.log( "Sync in corso")
+
   // prodotti in woocommerce
   const all_products = await getAllProducts();
-
   console.log( `trovati ${all_products.length} prodotti`);
+
   let i = 1;
   const [rows] = await conn.query(`Select wc_id from sgrricambi_products`);
   const ids = rows.map( r => r.wc_id )
   const new_products = all_products.filter( p => ids.indexOf(p.post_id) === -1 )
+
+  // prendo tutti i prodotti che sono stati eliminati da woocommerce e li 
+  // elimino anche in locale
+  const all_products_ids = all_products.map( p => p.post_id )
+
+  const deleted_woocommerce_products = 
+    ids.filter( id => all_products_ids.indexOf(id) === -1  )
+  
+    console.log( `trovati ${deleted_woocommerce_products.length} prodotti non esistenti`)
+  // elimino i prodotti che non esistono più su woocommerce
+  if( deleted_woocommerce_products.length > 0 )
+    await conn.query(`delete from sgrricambi_products where wc_id in(${deleted_woocommerce_products.join(",")})`);
+
 
 
   for ( const product of new_products){
