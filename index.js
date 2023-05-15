@@ -58,6 +58,6 @@ async function main() {
 }
 
 main()
-// setInterval(() => {
-//   main()
-// }, 1000 * 60 * 2)
+setInterval(() => {
+  main()
+}, 1000 * 60 * 2)

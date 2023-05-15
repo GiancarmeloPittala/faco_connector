@@ -2,7 +2,7 @@ const mysql = require('mysql2');
 
 const { put_products_qta, put_products_price, createProducts, get_products } = require('../utils/axios');
 
-const { getAllProducts } = require('../utils/sgrricambi');
+const { getAllProducts, update_regular_price } = require('../utils/sgrricambi');
 
 
 const {
@@ -24,7 +24,6 @@ module.exports.woocommerce_to_faco_products = async (products) => {
   await conn.query(sql)
 
 }
-
 
 module.exports.faco_products = async function (offset = 0, limit = 100) {
 
@@ -100,15 +99,16 @@ async function update_product_qta() {
 async function update_product_price() {
   // aggiorno il price 
   const sql_price = `select sp.*, (a.pre1 + ( a.pre1 / 100 * 22 )) as pre1 from 01_anaart a right join sgrricambi_products sp on a.codart = sp.codart where (a.pre1 + ( a.pre1 / 100 * 22 )) != sp.price;`
-
+  let i = 1;
   let [rows_products_price] = await conn.query(sql_price);
   console.log("Aggiornamento prodotti|PRICE in corso ", rows_products_price.length)
-
-  for (const product of rows_products_price) {
-
+  
+  const update = async product => {
     if (product.wc_id != null) {
       console.log(`Aggiornamento su woocommerce di ${product.codart}`)
-      await put_products_price(product)
+      // await put_products_price(product)
+      await update_regular_price(product.pre1, product.wc_id)
+  
 
       console.log(`Aggiornamento prezzo in faco ${product.price} to ${product.pre1}`)
       await conn.query(`update sgrricambi_products set price = ${product.pre1} where wc_id = ${product.wc_id}`)
@@ -116,8 +116,17 @@ async function update_product_price() {
     } else {
       console.log(`il prodotto ${product.codart} non ha id wc registrato`)
     }
-
   }
+  const update_products = async limit => {
+    for (const product of [...rows_products_price].slice( limit * 1000, limit * 1000 + 1000 )) {
+      console.log( `${limit}-${i++}/${rows_products_price.length}`)
+      await update(product)
+    }
+  }
+
+  for ( const limit of [0,1,2,3,4,5,6,7,8,9,10] )
+    update_products(limit)
+   
 
   // libero la memoria
   rows_products_price = [];
