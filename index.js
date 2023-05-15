@@ -38,6 +38,7 @@ app.listen(PORT)
 
 
 async function main() {
+  fs.writeFile('log.txt', '', () => {} )
   let rawdata = fs.readFileSync('database.json');
   let db = JSON.parse(rawdata);
   try {
